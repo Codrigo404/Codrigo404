@@ -22,6 +22,7 @@
 - HTML5, CSS3, JavaScript, Canvas API
 - Git & GitHub
 - Figma e design de interfaces
+- Python
 
 ---
 
