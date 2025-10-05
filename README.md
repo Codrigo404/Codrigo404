@@ -16,7 +16,7 @@
 
 ---
 
-### 👨‍💻 Atualmente estudando:
+### 👨‍💻 Atualmente estudando: Analise e desenvolvimento de sistemas pela Unisuam.
 
 - Desenvolvimento Front-End
 - HTML5, CSS3, JavaScript, Canvas API
